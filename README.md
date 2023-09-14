@@ -26,6 +26,8 @@ Projeto desenvolvido durante a NLW de IA, focado em explorar a API da OpenAI.
   - 🗃 Controle total do banco de dados, integração completa com TypeScript (ele até exibe as colunas do banco e seus tipos no código) e ferramenta nativa para gerenciamento.
 - **ZOD**
   - 🛡 Uma das melhores bibliotecas para validação de dados em TypeScript.
+- **OpenAI API**
+  - 🤖 Primeira experiência com a API da OpenAI, explorando suas funcionalidades e integrações.
 
 ### 📦 Como Rodar
 
