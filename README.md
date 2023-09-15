@@ -1,4 +1,5 @@
 # nlw-ia
+![Wallpaper](./wallpaper.png)
 Projeto desenvolvido durante a NLW de IA, focado em explorar a API da OpenAI.
 
 ## 🚀 Aprendizados
@@ -28,6 +29,15 @@ Projeto desenvolvido durante a NLW de IA, focado em explorar a API da OpenAI.
   - 🛡 Uma das melhores bibliotecas para validação de dados em TypeScript.
 - **OpenAI API**
   - 🤖 Primeira experiência com a API da OpenAI, explorando suas funcionalidades e integrações.
+
+#### 🎓 Aula 03
+- **Tailwind CSS**
+  - 📐 `inset-0`: Propriedade que seta `left`, `top`, `right`, `bottom` para 0.
+- **FFmpeg Web Assembly**
+  - 🎞 Introdução ao uso de FFmpeg em Web Assembly para manipulação de mídia.
+- **Pacote AI da Vercel**
+  - 🤖 Exploração do pacote AI fornecido pela Vercel, abrindo novas possibilidades para projetos de IA.
+
 
 ### 📦 Como Rodar
 
