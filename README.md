@@ -30,7 +30,7 @@ Projeto desenvolvido durante a NLW de IA, focado em explorar a API da OpenAI.
 - **OpenAI API**
   - 🤖 Primeira experiência com a API da OpenAI, explorando suas funcionalidades e integrações.
 
-#### 🎓 Aula 03
+### 🎓 Aula 03
 - **Tailwind CSS**
   - 📐 `inset-0`: Propriedade que seta `left`, `top`, `right`, `bottom` para 0.
 - **FFmpeg Web Assembly**
